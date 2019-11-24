@@ -1,0 +1,14 @@
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/controller/Controller.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/controller/SalesController.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/dto/sales/SalesRequestCreationDto.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/controller/ProductController.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/dto/product/ProductResponseDto.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/model/Product.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/dto/product/ProductRequestCreationDto.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/dto/sales/SalesResponseDto.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/controller/PurchaseController.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/dto/purchase/PurchaseRequestCreationDto.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/resources/PurchaseResource.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/dto/purchase/PurchaseResponseDto.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/resources/ProductResource.java
+/home/alin/facturacion/api/src/main/java/com/itedes/facturacion/resources/SalesResource.java
